@@ -1,4 +1,6 @@
 ## Hello, I'm Nadila!👋
+![Nadila Zindi Aulia Putri](img/githubheader.png)
+
 Computer Science Student at Binus University
 
 <!--
@@ -15,4 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc0cmw3M3M3Y2ljaGVkcDR5ZjN3MDhlemhxaWExZHNjOW93NnBycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsPBfiEEozyXUXShhB/giphy.gif)
+- 🌱 I’m currently learning CLoud Computing
+
+![happy birthday](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc0cmw3M3M3Y2ljaGVkcDR5ZjN3MDhlemhxaWExZHNjOW93NnBycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsPBfiEEozyXUXShhB/giphy.gif)
