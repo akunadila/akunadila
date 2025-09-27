@@ -1,4 +1,5 @@
 ## Hello, I'm Nadila!👋
+Computer Science Student at Binus University
 
 <!--
 **akunadila/akunadila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Cloud Computing
-https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc0cmw3M3M3Y2ljaGVkcDR5ZjN3MDhlemhxaWExZHNjOW93NnBycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsPBfiEEozyXUXShhB/giphy.gif
+![Hello](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGc0cmw3M3M3Y2ljaGVkcDR5ZjN3MDhlemhxaWExZHNjOW93NnBycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dsPBfiEEozyXUXShhB/giphy.gif)
